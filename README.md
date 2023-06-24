@@ -1,10 +1,11 @@
-# PyWebAsisstant
+# PyWebChatGPTAsisstant
 
-This is my starting project for learning Flask to develop web applications.
-PyWebAsisstant has a script for answering the users question.
-It searches the Wikipedia and Wolframalpha.
+This is my project from Flask learning in which i included OpenAI API 
+to learn how to work with chatgpt.
 
-All the user has to do is write the question in the space provided for it and wait for the answer of the digital assistant.
+PyWebChatGPTAsisstant runs with openai API key, which is here hidden. 
+
+All the user has to do is write the question in the space provided for it and wait for the answer of chatgpt.
 
 To use this web page do the following:
 

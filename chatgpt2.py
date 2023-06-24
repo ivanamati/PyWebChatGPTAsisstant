@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "###"
 
 messages = [{"role": "system", "content": "Ti si developer asistent"}]
 
