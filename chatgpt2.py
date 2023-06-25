@@ -2,7 +2,7 @@ import openai
 
 openai.api_key = "###"
 
-messages = [{"role": "system", "content": "Ti si developer asistent"}]
+messages = [{"role": "system", "content": "Ti si vrhunski developer koji je ujedno i izvrstan mentor junior developerima"}]
 
 def CustomChatGPT(users_input):
     messages.append({"role": "user", "content": users_input})

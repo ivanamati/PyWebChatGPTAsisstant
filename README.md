@@ -4,6 +4,7 @@ This is my project from Flask learning in which i included OpenAI API
 to learn how to work with chatgpt.
 
 PyWebChatGPTAsisstant runs with openai API key, which is here hidden. 
+You can use your own API key to work with this model.
 
 All the user has to do is write the question in the space provided for it and wait for the answer of chatgpt.
 
