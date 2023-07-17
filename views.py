@@ -6,7 +6,7 @@ views = Blueprint(__name__,"views")
 
 
 ####################################################
-# ROUTES za new index.html
+# ROUTES za index.html
 @views.route("/")
 def index():
     # ovime sam dobila da se sve prethodne flash poruke maknu s prozora
